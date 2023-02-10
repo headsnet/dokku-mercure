@@ -1,1 +1,1 @@
-FROM dunglas/mercure:0.14.4
+FROM dunglas/mercure:v0.14
